@@ -1,7 +1,7 @@
 #
 # Ubuntu Desktop (LXDE) Dockerfile
 #
-# https://github.com/dockerfile/ubuntu-desktop
+# https://github.com/empijei/ubuntu-desktop
 #
 
 # Pull base image.
